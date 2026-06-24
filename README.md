@@ -1,16 +1,18 @@
-# smart_task_timetable_planner
+# Smart Task & Timetable Planner
 
-A new Flutter project.
+Final-year Software Engineering project developed using Flutter and Firebase.
 
-## Getting Started
+## Demo Video
+https://www.youtube.com/watch?v=ocOTSTKjmyU
 
-This project is a starting point for a Flutter application.
+## Features
+- Task management
+- Timetable scheduling
+- Study session planning
+- Assignment tracking
+- User authentication
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+- Flutter
+- Dart
+- Firebase
